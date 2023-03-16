@@ -1,0 +1,12 @@
+.List table td {
+  border: 2px solid black;
+  padding: 8px;
+}
+.List table {
+  border-collapse: collapse;
+}
+.List ul {
+  list-style-type: none;
+  color: blueviolet;
+  font-size: 35px;
+}
